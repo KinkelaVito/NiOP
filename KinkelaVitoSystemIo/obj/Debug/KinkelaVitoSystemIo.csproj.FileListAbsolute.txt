@@ -1,0 +1,7 @@
+C:\Users\VitoPC\source\repos\KinkelaVitoSystemIo\KinkelaVitoSystemIo\bin\Debug\KinkelaVitoSystemIo.exe.config
+C:\Users\VitoPC\source\repos\KinkelaVitoSystemIo\KinkelaVitoSystemIo\bin\Debug\KinkelaVitoSystemIo.exe
+C:\Users\VitoPC\source\repos\KinkelaVitoSystemIo\KinkelaVitoSystemIo\bin\Debug\KinkelaVitoSystemIo.pdb
+C:\Users\VitoPC\source\repos\KinkelaVitoSystemIo\KinkelaVitoSystemIo\obj\Debug\KinkelaVitoSystemIo.csprojAssemblyReference.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoSystemIo\KinkelaVitoSystemIo\obj\Debug\KinkelaVitoSystemIo.csproj.CoreCompileInputs.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoSystemIo\KinkelaVitoSystemIo\obj\Debug\KinkelaVitoSystemIo.exe
+C:\Users\VitoPC\source\repos\KinkelaVitoSystemIo\KinkelaVitoSystemIo\obj\Debug\KinkelaVitoSystemIo.pdb
