@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\KinkelaVitoUsing\KinkelaVitoUsing\bin\Debug\KinkelaVitoUsing.exe.config
+C:\Users\Učenik\source\repos\KinkelaVitoUsing\KinkelaVitoUsing\bin\Debug\KinkelaVitoUsing.exe
+C:\Users\Učenik\source\repos\KinkelaVitoUsing\KinkelaVitoUsing\bin\Debug\KinkelaVitoUsing.pdb
+C:\Users\Učenik\source\repos\KinkelaVitoUsing\KinkelaVitoUsing\obj\Debug\KinkelaVitoUsing.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\KinkelaVitoUsing\KinkelaVitoUsing\obj\Debug\KinkelaVitoUsing.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\KinkelaVitoUsing\KinkelaVitoUsing\obj\Debug\KinkelaVitoUsing.exe
+C:\Users\Učenik\source\repos\KinkelaVitoUsing\KinkelaVitoUsing\obj\Debug\KinkelaVitoUsing.pdb
