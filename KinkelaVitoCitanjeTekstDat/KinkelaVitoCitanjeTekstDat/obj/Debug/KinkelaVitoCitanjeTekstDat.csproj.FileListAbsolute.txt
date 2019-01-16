@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\KinkelaVitoCitanjeTekstDat\KinkelaVitoCitanjeTekstDat\bin\Debug\KinkelaVitoCitanjeTekstDat.exe.config
+C:\Users\Učenik\source\repos\KinkelaVitoCitanjeTekstDat\KinkelaVitoCitanjeTekstDat\bin\Debug\KinkelaVitoCitanjeTekstDat.exe
+C:\Users\Učenik\source\repos\KinkelaVitoCitanjeTekstDat\KinkelaVitoCitanjeTekstDat\bin\Debug\KinkelaVitoCitanjeTekstDat.pdb
+C:\Users\Učenik\source\repos\KinkelaVitoCitanjeTekstDat\KinkelaVitoCitanjeTekstDat\obj\Debug\KinkelaVitoCitanjeTekstDat.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\KinkelaVitoCitanjeTekstDat\KinkelaVitoCitanjeTekstDat\obj\Debug\KinkelaVitoCitanjeTekstDat.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\KinkelaVitoCitanjeTekstDat\KinkelaVitoCitanjeTekstDat\obj\Debug\KinkelaVitoCitanjeTekstDat.exe
+C:\Users\Učenik\source\repos\KinkelaVitoCitanjeTekstDat\KinkelaVitoCitanjeTekstDat\obj\Debug\KinkelaVitoCitanjeTekstDat.pdb
