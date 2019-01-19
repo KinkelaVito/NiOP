@@ -1,0 +1,11 @@
+C:\Users\VitoPC\source\repos\KinkelaVitoRichTextBox\KinkelaVitoRichTextBox\bin\Debug\KinkelaVitoRichTextBox.exe.config
+C:\Users\VitoPC\source\repos\KinkelaVitoRichTextBox\KinkelaVitoRichTextBox\bin\Debug\KinkelaVitoRichTextBox.exe
+C:\Users\VitoPC\source\repos\KinkelaVitoRichTextBox\KinkelaVitoRichTextBox\bin\Debug\KinkelaVitoRichTextBox.pdb
+C:\Users\VitoPC\source\repos\KinkelaVitoRichTextBox\KinkelaVitoRichTextBox\obj\Debug\KinkelaVitoRichTextBox.csprojAssemblyReference.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoRichTextBox\KinkelaVitoRichTextBox\obj\Debug\KinkelaVitoRichTextBox.Form1.resources
+C:\Users\VitoPC\source\repos\KinkelaVitoRichTextBox\KinkelaVitoRichTextBox\obj\Debug\KinkelaVitoRichTextBox.Properties.Resources.resources
+C:\Users\VitoPC\source\repos\KinkelaVitoRichTextBox\KinkelaVitoRichTextBox\obj\Debug\KinkelaVitoRichTextBox.csproj.GenerateResource.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoRichTextBox\KinkelaVitoRichTextBox\obj\Debug\KinkelaVitoRichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoRichTextBox\KinkelaVitoRichTextBox\obj\Debug\KinkelaVitoRichTextBox.exe
+C:\Users\VitoPC\source\repos\KinkelaVitoRichTextBox\KinkelaVitoRichTextBox\obj\Debug\KinkelaVitoRichTextBox.pdb
+C:\Users\VitoPC\source\repos\KinkelaVitoRichTextBox\KinkelaVitoRichTextBox\obj\Debug\KinkelaVitoRichTextBox.Licenca.resources
