@@ -1,0 +1,10 @@
+C:\Users\VitoPC\source\repos\KinkelaVitoPictureBox\KinkelaVitoPictureBox\bin\Debug\KinkelaVitoPictureBox.exe.config
+C:\Users\VitoPC\source\repos\KinkelaVitoPictureBox\KinkelaVitoPictureBox\bin\Debug\KinkelaVitoPictureBox.exe
+C:\Users\VitoPC\source\repos\KinkelaVitoPictureBox\KinkelaVitoPictureBox\bin\Debug\KinkelaVitoPictureBox.pdb
+C:\Users\VitoPC\source\repos\KinkelaVitoPictureBox\KinkelaVitoPictureBox\obj\Debug\KinkelaVitoPictureBox.csprojAssemblyReference.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoPictureBox\KinkelaVitoPictureBox\obj\Debug\KinkelaVitoPictureBox.Form1.resources
+C:\Users\VitoPC\source\repos\KinkelaVitoPictureBox\KinkelaVitoPictureBox\obj\Debug\KinkelaVitoPictureBox.Properties.Resources.resources
+C:\Users\VitoPC\source\repos\KinkelaVitoPictureBox\KinkelaVitoPictureBox\obj\Debug\KinkelaVitoPictureBox.csproj.GenerateResource.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoPictureBox\KinkelaVitoPictureBox\obj\Debug\KinkelaVitoPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoPictureBox\KinkelaVitoPictureBox\obj\Debug\KinkelaVitoPictureBox.exe
+C:\Users\VitoPC\source\repos\KinkelaVitoPictureBox\KinkelaVitoPictureBox\obj\Debug\KinkelaVitoPictureBox.pdb
