@@ -1,0 +1,11 @@
+C:\Users\VitoPC\source\repos\KinkelaVitoContextMenuStrip\KinkelaVitoContextMenuStrip\bin\Debug\KinkelaVitoContextMenuStrip.exe.config
+C:\Users\VitoPC\source\repos\KinkelaVitoContextMenuStrip\KinkelaVitoContextMenuStrip\bin\Debug\KinkelaVitoContextMenuStrip.exe
+C:\Users\VitoPC\source\repos\KinkelaVitoContextMenuStrip\KinkelaVitoContextMenuStrip\bin\Debug\KinkelaVitoContextMenuStrip.pdb
+C:\Users\VitoPC\source\repos\KinkelaVitoContextMenuStrip\KinkelaVitoContextMenuStrip\obj\Debug\KinkelaVitoContextMenuStrip.Form1.resources
+C:\Users\VitoPC\source\repos\KinkelaVitoContextMenuStrip\KinkelaVitoContextMenuStrip\obj\Debug\KinkelaVitoContextMenuStrip.Properties.Resources.resources
+C:\Users\VitoPC\source\repos\KinkelaVitoContextMenuStrip\KinkelaVitoContextMenuStrip\obj\Debug\KinkelaVitoContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoContextMenuStrip\KinkelaVitoContextMenuStrip\obj\Debug\KinkelaVitoContextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoContextMenuStrip\KinkelaVitoContextMenuStrip\obj\Debug\KinkelaVitoContextMenuStrip.exe
+C:\Users\VitoPC\source\repos\KinkelaVitoContextMenuStrip\KinkelaVitoContextMenuStrip\obj\Debug\KinkelaVitoContextMenuStrip.pdb
+C:\Users\VitoPC\source\repos\KinkelaVitoContextMenuStrip\KinkelaVitoContextMenuStrip\obj\Debug\KinkelaVitoContextMenuStrip.Form2.resources
+C:\Users\VitoPC\source\repos\KinkelaVitoContextMenuStrip\KinkelaVitoContextMenuStrip\obj\Debug\KinkelaVitoContextMenuStrip.csprojAssemblyReference.cache
