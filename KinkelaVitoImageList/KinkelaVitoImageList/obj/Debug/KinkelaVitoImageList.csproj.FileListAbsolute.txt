@@ -1,0 +1,11 @@
+C:\Users\VitoPC\source\repos\KinkelaVitoImageList\KinkelaVitoImageList\bin\Debug\KinkelaVitoImageList.exe.config
+C:\Users\VitoPC\source\repos\KinkelaVitoImageList\KinkelaVitoImageList\bin\Debug\KinkelaVitoImageList.exe
+C:\Users\VitoPC\source\repos\KinkelaVitoImageList\KinkelaVitoImageList\bin\Debug\KinkelaVitoImageList.pdb
+C:\Users\VitoPC\source\repos\KinkelaVitoImageList\KinkelaVitoImageList\obj\Debug\KinkelaVitoImageList.csprojAssemblyReference.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoImageList\KinkelaVitoImageList\obj\Debug\KinkelaVitoImageList.Form1.resources
+C:\Users\VitoPC\source\repos\KinkelaVitoImageList\KinkelaVitoImageList\obj\Debug\KinkelaVitoImageList.Properties.Resources.resources
+C:\Users\VitoPC\source\repos\KinkelaVitoImageList\KinkelaVitoImageList\obj\Debug\KinkelaVitoImageList.csproj.GenerateResource.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoImageList\KinkelaVitoImageList\obj\Debug\KinkelaVitoImageList.csproj.CoreCompileInputs.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoImageList\KinkelaVitoImageList\obj\Debug\KinkelaVitoImageList.exe
+C:\Users\VitoPC\source\repos\KinkelaVitoImageList\KinkelaVitoImageList\obj\Debug\KinkelaVitoImageList.pdb
+C:\Users\VitoPC\source\repos\KinkelaVitoImageList\KinkelaVitoImageList\obj\Debug\KinkelaVitoImageList.Form2.resources
