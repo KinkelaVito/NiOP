@@ -1,0 +1,11 @@
+C:\Users\VitoPC\source\repos\KinkelaVitoMonthClaendar\KinkelaVitoMonthClaendar\bin\Debug\KinkelaVitoMonthClaendar.exe.config
+C:\Users\VitoPC\source\repos\KinkelaVitoMonthClaendar\KinkelaVitoMonthClaendar\bin\Debug\KinkelaVitoMonthClaendar.exe
+C:\Users\VitoPC\source\repos\KinkelaVitoMonthClaendar\KinkelaVitoMonthClaendar\bin\Debug\KinkelaVitoMonthClaendar.pdb
+C:\Users\VitoPC\source\repos\KinkelaVitoMonthClaendar\KinkelaVitoMonthClaendar\obj\Debug\KinkelaVitoMonthClaendar.csprojAssemblyReference.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoMonthClaendar\KinkelaVitoMonthClaendar\obj\Debug\KinkelaVitoMonthClaendar.Form1.resources
+C:\Users\VitoPC\source\repos\KinkelaVitoMonthClaendar\KinkelaVitoMonthClaendar\obj\Debug\KinkelaVitoMonthClaendar.Properties.Resources.resources
+C:\Users\VitoPC\source\repos\KinkelaVitoMonthClaendar\KinkelaVitoMonthClaendar\obj\Debug\KinkelaVitoMonthClaendar.csproj.GenerateResource.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoMonthClaendar\KinkelaVitoMonthClaendar\obj\Debug\KinkelaVitoMonthClaendar.csproj.CoreCompileInputs.cache
+C:\Users\VitoPC\source\repos\KinkelaVitoMonthClaendar\KinkelaVitoMonthClaendar\obj\Debug\KinkelaVitoMonthClaendar.exe
+C:\Users\VitoPC\source\repos\KinkelaVitoMonthClaendar\KinkelaVitoMonthClaendar\obj\Debug\KinkelaVitoMonthClaendar.pdb
+C:\Users\VitoPC\source\repos\KinkelaVitoMonthClaendar\KinkelaVitoMonthClaendar\obj\Debug\KinkelaVitoMonthClaendar.Form2.resources
