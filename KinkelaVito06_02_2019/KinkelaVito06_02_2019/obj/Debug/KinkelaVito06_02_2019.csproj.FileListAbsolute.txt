@@ -1,0 +1,7 @@
+C:\Users\Učenik.IR-R05\source\repos\KinkelaVito06_02_2019\KinkelaVito06_02_2019\bin\Debug\KinkelaVito06_02_2019.exe.config
+C:\Users\Učenik.IR-R05\source\repos\KinkelaVito06_02_2019\KinkelaVito06_02_2019\bin\Debug\KinkelaVito06_02_2019.exe
+C:\Users\Učenik.IR-R05\source\repos\KinkelaVito06_02_2019\KinkelaVito06_02_2019\bin\Debug\KinkelaVito06_02_2019.pdb
+C:\Users\Učenik.IR-R05\source\repos\KinkelaVito06_02_2019\KinkelaVito06_02_2019\obj\Debug\KinkelaVito06_02_2019.csprojResolveAssemblyReference.cache
+C:\Users\Učenik.IR-R05\source\repos\KinkelaVito06_02_2019\KinkelaVito06_02_2019\obj\Debug\KinkelaVito06_02_2019.csproj.CoreCompileInputs.cache
+C:\Users\Učenik.IR-R05\source\repos\KinkelaVito06_02_2019\KinkelaVito06_02_2019\obj\Debug\KinkelaVito06_02_2019.exe
+C:\Users\Učenik.IR-R05\source\repos\KinkelaVito06_02_2019\KinkelaVito06_02_2019\obj\Debug\KinkelaVito06_02_2019.pdb
