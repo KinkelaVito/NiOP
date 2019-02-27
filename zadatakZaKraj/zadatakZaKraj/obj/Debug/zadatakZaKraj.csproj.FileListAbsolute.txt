@@ -1,0 +1,7 @@
+c:\users\učenik.ir-r05\source\repos\zadatakZaKraj\zadatakZaKraj\bin\Debug\zadatakZaKraj.exe.config
+c:\users\učenik.ir-r05\source\repos\zadatakZaKraj\zadatakZaKraj\bin\Debug\zadatakZaKraj.exe
+c:\users\učenik.ir-r05\source\repos\zadatakZaKraj\zadatakZaKraj\bin\Debug\zadatakZaKraj.pdb
+c:\users\učenik.ir-r05\source\repos\zadatakZaKraj\zadatakZaKraj\obj\Debug\zadatakZaKraj.csprojResolveAssemblyReference.cache
+c:\users\učenik.ir-r05\source\repos\zadatakZaKraj\zadatakZaKraj\obj\Debug\zadatakZaKraj.csproj.CoreCompileInputs.cache
+c:\users\učenik.ir-r05\source\repos\zadatakZaKraj\zadatakZaKraj\obj\Debug\zadatakZaKraj.exe
+c:\users\učenik.ir-r05\source\repos\zadatakZaKraj\zadatakZaKraj\obj\Debug\zadatakZaKraj.pdb
